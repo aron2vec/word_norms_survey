@@ -19,4 +19,4 @@ This is a project by the [ODISSEI Social Data Science (SoDa)](https://odissei-da
 Do you have questions, suggestions, or remarks on the technical implementation? File an issue in the
 issue tracker or feel free to contact [Aron Joosse](https://github.com/aron2vec), [Erik-Jan van Kesteren](https://github.com/vankesteren), or [Giovanni Cassani](https://github.com/GiovanniCassani).
 
-<img src="docs/soda.png" alt="SoDa logo" width="250px"/> 
+<img src="img/soda.png" alt="SoDa logo" width="250px"/> 
