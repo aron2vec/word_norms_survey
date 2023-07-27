@@ -11,3 +11,12 @@ For running the .py files, the working directory needs to be set to the main fol
 Several of the raw data files have been excluded from the repository due to licensing regulations. Where possible, links have been provided to where the data was gathered from. For more: see the README in `/stimuli_creation/data/raw/`
 
 Furthermore, several tools (e.g., the tools to create the bestworst trials) have been left out for similar reasons.
+
+
+<!-- CONTACT -->
+## Contact
+This is a project by the [ODISSEI Social Data Science (SoDa)](https://odissei-data.nl/nl/soda/) team.
+Do you have questions, suggestions, or remarks on the technical implementation? File an issue in the
+issue tracker or feel free to contact [Aron Joosse](https://github.com/aron2vec), [Erik-Jan van Kesteren](https://github.com/vankesteren), or [Giovanni Cassani](https://github.com/GiovanniCassani).
+
+<img src="docs/soda.png" alt="SoDa logo" width="250px"/> 
