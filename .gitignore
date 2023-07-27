@@ -153,5 +153,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# avoid uploading the actual datasets
 psychopy_experiments/final_experiment/data/*
 psychopy_experiments/pilot_experiment/data/*
